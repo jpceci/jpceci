@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Cecilia👋</h1>
 </div>
-
+<img src="https://github.com/jpceci/images-gym/blob/main/images/banner.png">
 
 ## About me
 
